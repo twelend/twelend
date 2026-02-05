@@ -5,8 +5,8 @@ Frontend Developer with 2+ years of commercial experience.
 ### Main stack
 - React, Next.js
 - TypeScript, JavaScript
-- TanStack Query, Redux Toolkit
-- Tailwind, Ant Design, SASS
+- TanStack Query, Redux Toolkit, Zustand
+- Tailwind, Ant Design, SASS, shadcn ui, Motion
 
 ### What I do
 - Build and maintain CRM systems
