@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Ilya 👋
 
-<!--
-**twelend/twelend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer with 2+ years of commercial experience.
 
-Here are some ideas to get you started:
+### Main stack
+- React, Next.js
+- TypeScript, JavaScript
+- TanStack Query, Redux Toolkit
+- Tailwind, Ant Design, SASS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I do
+- Build and maintain CRM systems
+- Work with complex client-side logic
+- Integrate frontend with backend APIs
+- Refactor legacy code and migrate projects to TypeScript
+
+### Experience
+- CRM systems for logistics and B2B companies
+- Dashboards, admin panels, role-based systems
+- Fullstack projects (Next.js + Node.js / Django)
+
+📫 Open to remote work
