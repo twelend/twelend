@@ -1,8 +1,15 @@
 # Hi, I'm Ilya 👋
 
-Fullstack Developer with 3+ years of commercial experience and a strong foundation in DevOps.
+**DevOps engineer** with 3+ years of commercial Fullstack experience.
 
 ### 🛠️ Tech Stack
+
+**DevOps & Infrastructure**
+- **Linux:** Certified LPI Linux Essentials (010-160)
+- **Containers & CI/CD:** Docker, Docker Compose, GitHub Actions, GitLab CI
+- **IaC & Web Servers:** Ansible, Nginx
+- **Observability:** Prometheus, Grafana, Loki
+- **Networking:** OSI/TCP/IP, HTTP/HTTPS, DNS, SSH
 
 **Frontend**
 - React, Next.js, TypeScript, JavaScript
@@ -13,13 +20,6 @@ Fullstack Developer with 3+ years of commercial experience and a strong foundati
 - Node.js, NestJS, Express
 - PostgreSQL, Redis
 - TypeORM, Prisma ORM
-
-**DevOps & Infrastructure**
-- **Linux:** Certified LPI Linux Essentials (010-160)
-- **Containers & CI/CD:** Docker, Docker Compose, GitHub Actions, GitLab CI
-- **IaC & Web Servers:** Ansible, Nginx
-- **Observability:** Prometheus, Grafana, Loki
-- **Networking:** OSI/TCP/IP, HTTP/HTTPS, DNS, SSH
 
 ### 🚀 What I Do
 - **Fullstack Development:** Building end-to-end applications using Next.js, NestJS, and relational databases.
